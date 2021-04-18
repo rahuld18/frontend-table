@@ -4,7 +4,7 @@ yarn start
 backend in node js
 yarn dev
 
-databse in mongodb
+database in mongodb
 just run the local instance
 
 
